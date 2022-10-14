@@ -21,4 +21,6 @@ const PetRoutes = require('./routes/PetRoutes');
 app.use('/users', UserRoutes);
 app.use('/pets', PetRoutes);
 
+app.get('/', (req, res) => res.send('Get a Pet API'));
+
 app.listen(port);
