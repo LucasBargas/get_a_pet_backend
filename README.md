@@ -5,11 +5,11 @@ Este projeto tem como objetivo simular a disponibilidade, e por fim, a adoção 
 
 ### Principais recursos do App
 * Registo, login e logout de usuário;
-* Edição de usuário;
-* Registro, edição e exclusão de Pet;
+* Edição de usuário, após a autenticação;
+* Registro, edição e exclusão de Pet, após a autenticação;
 * A edição ou exlusão só pode ser feita pelo dono do Pet;
-* Simulação de solicitação Adoção por usuários que não sejam donos do Pet;
-* O usuário dono do Pet deve aceitar a solicitação de adoção.
+* Simulação de solicitação Adoção por usuários que não sejam donos do Pet, após a autenticação;
+* O usuário dono do Pet deve aceitar a solicitação de adoção, após a autenticação.
 
 ### Tecnologias utilizadas
 #### Backend
