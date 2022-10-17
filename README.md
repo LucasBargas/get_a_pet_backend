@@ -1,4 +1,4 @@
-## Projeto Thoughts
+## Projeto Adote um Pet
 O projeto **Adote um Pet** foi desenvolvido durante um curso Nodejs feito na Udemy sob tutela do professor, Matheus Battisti.
 Este projeto tem como objetivo simular a disponibilidade, e por fim, a adoção de **Pets**, especialmente cães.
 
