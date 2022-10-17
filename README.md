@@ -1,5 +1,6 @@
 ## Projeto Adote um Pet
 O projeto **Adote um Pet** foi desenvolvido durante um curso Nodejs feito na Udemy sob tutela do professor, Matheus Battisti.
+Contruímos uma API Rest para ser consumida no Front end. Todos os testes de rotas foram feitos com o Postman.
 Este projeto tem como objetivo simular a disponibilidade, e por fim, a adoção de **Pets**, especialmente cães.
 
 ### Principais recursos do App
